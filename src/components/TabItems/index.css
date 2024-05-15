@@ -1,0 +1,16 @@
+.tab-btn {
+  margin: 10px;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border: 0px;
+  padding: 10px;
+  font-size: 18px;
+  cursor: pointer;
+  outline: none;
+}
+
+.extra {
+  border-bottom: 1px solid #fec653;
+  color: #fec653;
+}

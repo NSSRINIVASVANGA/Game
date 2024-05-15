@@ -1,0 +1,11 @@
+.image {
+  margin: 10px;
+  width: 90px;
+}
+
+.img-btn {
+  border: 0px;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
